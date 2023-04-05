@@ -6,7 +6,7 @@
 
 ## Tasks
 
-### *Parts 1 and 2 use the NOSQL_setup.ipynb file.*
+#### *Parts 1 and 2 use the NOSQL_setup.ipynb file.*
 
 ### **Part 1: Database and Jupyter Notebook Set Up**
 
@@ -40,7 +40,7 @@
 
 ### **Part 3: Exploratory Analysis**
 
-### *Part 3 uses the NOSQL_analysis.ipynb file.*
+#### *Part 3 uses the NOSQL_analysis.ipynb file.*
 
 #### Eat Safe, Love has specific questions they want me to answer, which will help them find the locations they wish to visit and avoid.
 
